@@ -1,5 +1,5 @@
 import {Link} from '@tanstack/react-router'
-import { Logo } from '@/components/logo'
+// import { Logo } from '@/components/logo'
 import { Menu, X } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import React from 'react'
@@ -36,7 +36,7 @@ export const HeroHeader = () => {
                                 to="/"
                                 aria-label="home"
                                 className="flex items-center space-x-2">
-                                <Logo />
+                                {/*<Logo />*/}
                             </Link>
 
                             <button
