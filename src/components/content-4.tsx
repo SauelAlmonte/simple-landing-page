@@ -18,7 +18,7 @@ export default function ContentSection() {
                             variant="secondary"
                             size="sm"
                             className="gap-1 pr-1.5">
-                            <Link to="#">
+                            <Link to="/">
                                 <span>Learn More</span>
                                 <ChevronRight className="size-2" />
                             </Link>
