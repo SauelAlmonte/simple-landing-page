@@ -157,7 +157,7 @@ export default function FooterSection() {
                         </svg>
                     </Link>
                 </div>
-                <span className="text-muted-foreground block text-center text-sm"> © {new Date().getFullYear()} A.M.P. LLC, All rights reserved</span>
+                <span className="text-muted-foreground block text-center text-sm"> A.M.P. LLC ©, {new Date().getFullYear()} All rights reserved</span>
             </div>
         </footer>
     )
