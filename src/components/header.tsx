@@ -8,6 +8,7 @@ import {ThemeSwitcher} from "@/components/kibo-ui/theme-switcher";
 
 const menuItems = [
     { name: 'Features', href: '#features' },
+    { name: 'Meet The Team', href: '#team' },
     { name: 'Pricing', href: '#pricing' },
     { name: 'About', href: '#about' },
     { name: 'Contact', href: '#footer' },

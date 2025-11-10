@@ -13,10 +13,10 @@ function App() {
   return (
       <>
           <HeroSection/>
+          <ContentSection/>
           <Features/>
           <TeamSection/>
           <Pricing/>
-          <ContentSection/>
           <FooterSection/>
       </>
   )
